@@ -1,2 +1,2 @@
 #!/bin/bash
-pip install -r requirements-vercel.txt 
+python -m pip install -r requirements-vercel.txt
