@@ -1,0 +1,6 @@
+{
+  "buildCommand": "python -m pip install -r requirements-vercel.txt",
+  "devCommand": "python -m streamlit run app.py",
+  "installCommand": "python -m pip install -r requirements-vercel.txt",
+  "framework": null
+} 
